@@ -1,12 +1,3 @@
-# Attendance Management System Project
-
-This is Java-Based desktop application that was built over the course of a semester in a Database Management Systems course 2013-14 at NIT-Surat.
-
-The team were
-1. Umang Shukla
-2. Pranay Sharma
-3. Krishnan Iyer
-
 
 ## Introduction
 
